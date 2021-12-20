@@ -18,7 +18,7 @@ Authors:
 
 ##### [Dec 2021] CrossCLR-onlyIntraModality released
 ## Loss Function
-The loss function [`SupConLoss`](https://github.com/HobbitLong/SupContrast/blob/master/losses.py#L11) in `losses.py` takes `features` (L2 normalized) and `labels` as input, and return the loss. If `labels` is `None` or not passed to the it, it degenerates to SimCLR.
+The loss function [`CrossCLR`](https://github.com/amazon-research/crossmodal-contrastive-learning) in `loss.py` takes `video features`  and `text features` as input, and return the loss. 
 
 Usage:
 ```python
