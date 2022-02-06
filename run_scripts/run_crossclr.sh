@@ -1,4 +1,4 @@
-python3 train.py --config_file config/lsmdc_100m_base.yaml --cuda \
+python3 train.py --config_file config/lsmdc.yaml --cuda \
 --dataroot /mnt/efs/fs1/workspace/experiments/data/lsmdc16/modality_experts/ \
 --data_pickle /mnt/efs/fs1/workspace/experiments/data/lsmdc16/modality_experts/modalities_pickle_v2/ \
 --group_k 5 --exp_group mod_mod_combine \
