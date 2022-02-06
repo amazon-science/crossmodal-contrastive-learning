@@ -1,0 +1,1 @@
+python3 -m extract_modalities.extract_modalities --data_save /mnt/efs/fs1/workspace/experiments/data/lsmdc16/modality_experts/test1k/ --group_k 1 --modality_list flow --data_video /mnt/efs/fs1/workspace/datasets/lsmdc16_mp4 --num_cuda 1 --cuda

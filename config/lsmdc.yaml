@@ -4,14 +4,14 @@ config_type: "ret"
 training:
     debug_size: 11000 #Debugging will be deactivated if set it to a number bigger that 10000!
     loss_func: 'contrastive'
-    batch_size: 64 #64
+    batch_size: 96 #64
     num_epochs: 20
     compute_clip_retrieval: true
 
     cross_clr_config:
-        temperature: 0.02
+        temperature: 0.03
         temperature_weights: 0.0055
-        score_thrshold: 0.9
+        score_thrshold: 1
         negative_weight: 0.65 #0.8
         queue_size: 10000
 
@@ -61,7 +61,7 @@ video_local:
     use_context: true
     use_subspace: false #deactivated
     pooler_config:
-        name: atn #atn #avg #max #atn
+        name: max #atn #avg #max #atn
         hidden_dim: 512
         num_heads: 4
         num_layers: 1
@@ -101,7 +101,7 @@ dataset:
     test_split: test1k
     min_frames: 1
     use_clips: true
-    max_frames: 10
+    max_frames: 4
     feat_agg_dim: 2048 #1024 #512 # Split features and add them along a new dimension
     mmt_feat_dim: 1024 #1024
     action_feat_dim: 2048 #1024
@@ -124,7 +124,7 @@ dataset:
     drop_last: false
 optimizer:
     name: radam
-    lr: 0.0006
+    lr: 0.0005
     weight_decay: 0 #3.0e-05 #0
     weight_decay_for_bias: true
     lr_decay_mult: false
@@ -134,7 +134,7 @@ optimizer:
 scheduler:
     patience: 6
     cooldown: 4
-    warmup: 2
+    warmup: 4
 
 # ---------- Logging / Saving ----------
 logging:
