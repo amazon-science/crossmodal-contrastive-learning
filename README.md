@@ -15,7 +15,7 @@ Authors:
 
 
 ## Update
-
+##### [06 Feb 2022] CrossCLR code released
 ##### [Dec 2021] CrossCLR-onlyIntraModality released
 ## Loss Function
 The loss function [`CrossCLR`](https://github.com/amazon-research/crossmodal-contrastive-learning) in `loss.py` takes `video features`  and `text features` as input, and return the loss. 
@@ -65,6 +65,8 @@ loss = criterion(video_features, text_features)
 
 See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
 
+## Acknowledgements
+Part of this code is inspired by Simon Ging's COOT implementation [[Code](https://github.com/gingsi/coot-videotext)].
 ## License
 
 This project is licensed under the Apache-2.0 License.
