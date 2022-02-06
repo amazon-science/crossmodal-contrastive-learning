@@ -1,0 +1,1082 @@
+{
+   "16392": {
+      "num_frames": 96,
+      "data_id": "16392",
+      "split": "train",
+      "segments": [{
+            "narration": "his eyes light up hopefully",
+            "start_frame": 0,
+            "stop_frame": 9,
+            "segment_name": "1020_Crazy_Stupid_Love_01.41.17.303-01.41.18.847",
+            "num_frames": 9
+         },{
+            "narration": "he spots an empty seat next to someone",
+            "start_frame": 9,
+            "stop_frame": 20,
+            "segment_name": "1020_Crazy_Stupid_Love_01.41.19.086-01.41.21.419",
+            "num_frames": 11
+         },{
+            "narration": "then he sees someone stamping over a chair to take the seat next to her",
+            "start_frame": 20,
+            "stop_frame": 51,
+            "segment_name": "1020_Crazy_Stupid_Love_01.41.23.131-01.41.28.736",
+            "num_frames": 31
+         },{
+            "narration": "someone looks away",
+            "start_frame": 51,
+            "stop_frame": 66,
+            "segment_name": "1020_Crazy_Stupid_Love_01.41.30.937-01.41.33.886",
+            "num_frames": 15
+         },{
+            "narration": "he heads upstairs and makes his way to a seat on the other side of the structure",
+            "start_frame": 66,
+            "stop_frame": 96,
+            "segment_name": "1020_Crazy_Stupid_Love_01.41.33.886-01.41.39.444",
+            "num_frames": 30
+         }]
+   },
+   "21014": {
+      "num_frames": 94,
+      "data_id": "21014",
+      "split": "val",
+      "segments": [{
+            "narration": "as the gray sedan speeds off down the road someone 's blue car glides back out from behind a bus and returns to its spot in the ferry line",
+            "start_frame": 0,
+            "stop_frame": 29,
+            "segment_name": "3068_THE_BIG_YEAR_01.06.07.037-01.06.12.330",
+            "num_frames": 29
+         },{
+            "narration": "the champion birder casually gets out",
+            "start_frame": 29,
+            "stop_frame": 50,
+            "segment_name": "3068_THE_BIG_YEAR_01.06.12.330-01.06.16.317",
+            "num_frames": 21
+         },{
+            "narration": "glancing over his shoulder he smirks",
+            "start_frame": 50,
+            "stop_frame": 63,
+            "segment_name": "3068_THE_BIG_YEAR_01.06.17.436-01.06.20.034",
+            "num_frames": 13
+         },{
+            "narration": "now at the skagit wildlife area",
+            "start_frame": 63,
+            "stop_frame": 72,
+            "segment_name": "3068_THE_BIG_YEAR_01.06.21.194-01.06.23.044",
+            "num_frames": 9
+         },{
+            "narration": "someone checks his watch",
+            "start_frame": 72,
+            "stop_frame": 94,
+            "segment_name": "3068_THE_BIG_YEAR_01.06.27.915-01.06.32.103",
+            "num_frames": 22
+         }]
+   },
+   "15197": {
+      "num_frames": 64,
+      "data_id": "15197",
+      "split": "train",
+      "segments": [{
+            "narration": "her face grows sad",
+            "start_frame": 0,
+            "stop_frame": 9,
+            "segment_name": "1008_Spider-Man2_01.37.07.096-01.37.08.684",
+            "num_frames": 9
+         },{
+            "narration": "he shakes his head",
+            "start_frame": 9,
+            "stop_frame": 18,
+            "segment_name": "1008_Spider-Man2_01.36.47.205-01.36.48.580",
+            "num_frames": 9
+         },{
+            "narration": "someone purses her lips",
+            "start_frame": 18,
+            "stop_frame": 27,
+            "segment_name": "1008_Spider-Man2_01.37.14.479-01.37.15.049",
+            "num_frames": 9
+         },{
+            "narration": "her eyes flit left and right",
+            "start_frame": 27,
+            "stop_frame": 38,
+            "segment_name": "1008_Spider-Man2_01.37.15.049-01.37.17.303",
+            "num_frames": 11
+         },{
+            "narration": "his head shakes slightly as he gazes sorrowfully into her blue eyes",
+            "start_frame": 38,
+            "stop_frame": 64,
+            "segment_name": "1008_Spider-Man2_01.37.22.000-01.37.26.763",
+            "num_frames": 26
+         }]
+   },
+   "18044": {
+      "num_frames": 150,
+      "data_id": "18044",
+      "split": "train",
+      "segments": [{
+            "narration": "once they have left someone sits back down",
+            "start_frame": 0,
+            "stop_frame": 17,
+            "segment_name": "1044_Pride_And_Prejudice_Disk_Two_02.11.27.416-02.11.30.687",
+            "num_frames": 17
+         },{
+            "narration": "someone casually takes up her embroidery turning slightly to afford people some privacy",
+            "start_frame": 17,
+            "stop_frame": 68,
+            "segment_name": "1044_Pride_And_Prejudice_Disk_Two_02.11.30.687-02.11.39.717",
+            "num_frames": 51
+         },{
+            "narration": "someone puts down her embroidery smiles at someone then leaves the room",
+            "start_frame": 68,
+            "stop_frame": 98,
+            "segment_name": "1044_Pride_And_Prejudice_Disk_Two_02.11.49.858-02.11.55.363",
+            "num_frames": 30
+         },{
+            "narration": "she gives someone a warning glance as she leaves",
+            "start_frame": 98,
+            "stop_frame": 119,
+            "segment_name": "1044_Pride_And_Prejudice_Disk_Two_02.11.56.344-02.12.00.382",
+            "num_frames": 21
+         },{
+            "narration": "someone looks nervously down at someone who eventually raises her eyes demurely to meet his",
+            "start_frame": 119,
+            "stop_frame": 150,
+            "segment_name": "1044_Pride_And_Prejudice_Disk_Two_02.12.02.342-02.12.08.009",
+            "num_frames": 31
+         }]
+   },
+   "23004": {
+      "num_frames": 87,
+      "data_id": "23004",
+      "split": "test",
+      "segments": [{
+            "narration": "someone points and beams at someone who gives her a thumbs-up",
+            "start_frame": 0,
+            "stop_frame": 18,
+            "segment_name": "3086_UGLY_TRUTH_00.41.38.000-00.41.41.542",
+            "num_frames": 18
+         },{
+            "narration": "he watches as she breaks into a goofy giddy dance",
+            "start_frame": 18,
+            "stop_frame": 44,
+            "segment_name": "3086_UGLY_TRUTH_00.41.41.789-00.41.46.666",
+            "num_frames": 26
+         },{
+            "narration": "now at the baseball game a pitcher winds up and throws the ball",
+            "start_frame": 44,
+            "stop_frame": 64,
+            "segment_name": "3086_UGLY_TRUTH_00.41.46.866-00.41.50.710",
+            "num_frames": 20
+         },{
+            "narration": "a batter swings and hits and the crowd rises",
+            "start_frame": 64,
+            "stop_frame": 73,
+            "segment_name": "3086_UGLY_TRUTH_00.41.50.910-00.41.52.746",
+            "num_frames": 9
+         },{
+            "narration": "someone who eats popcorn enters with someone",
+            "start_frame": 73,
+            "stop_frame": 87,
+            "segment_name": "3086_UGLY_TRUTH_00.41.55.308-00.41.58.086",
+            "num_frames": 14
+         }]
+   },
+   "20275": {
+      "num_frames": 104,
+      "data_id": "20275",
+      "split": "train",
+      "segments": [{
+            "narration": "someone stares at him wide-eyed",
+            "start_frame": 0,
+            "stop_frame": 18,
+            "segment_name": "1062_Day_the_Earth_stood_still_01.34.27.000-01.34.30.490",
+            "num_frames": 18
+         },{
+            "narration": "he stands up and walks towards the mouth of the tunnel",
+            "start_frame": 18,
+            "stop_frame": 55,
+            "segment_name": "1062_Day_the_Earth_stood_still_01.34.30.792-01.34.37.538",
+            "num_frames": 37
+         },{
+            "narration": "he looks round at someone comforting someone",
+            "start_frame": 55,
+            "stop_frame": 80,
+            "segment_name": "1062_Day_the_Earth_stood_still_01.34.38.364-01.34.43.050",
+            "num_frames": 25
+         },{
+            "narration": "she stares back at him",
+            "start_frame": 80,
+            "stop_frame": 95,
+            "segment_name": "1062_Day_the_Earth_stood_still_01.34.43.050-01.34.45.978",
+            "num_frames": 15
+         },{
+            "narration": "someone steps out into the raging swarm",
+            "start_frame": 95,
+            "stop_frame": 104,
+            "segment_name": "1062_Day_the_Earth_stood_still_01.34.47.163-01.34.49.161",
+            "num_frames": 9
+         }]
+   },
+   "13565": {
+      "num_frames": 154,
+      "data_id": "13565",
+      "split": "train",
+      "segments": [{
+            "narration": "someone unclips the tie",
+            "start_frame": 0,
+            "stop_frame": 16,
+            "segment_name": "0041_The_Sixth_Sense_00.17.50.764-00.17.53.881",
+            "num_frames": 16
+         },{
+            "narration": "someone takes a seat at the kitchen table as someone walks back into the laundry room",
+            "start_frame": 16,
+            "stop_frame": 103,
+            "segment_name": "0041_The_Sixth_Sense_00.17.42.922-00.17.57.903",
+            "num_frames": 87
+         },{
+            "narration": "the dog is gone now",
+            "start_frame": 103,
+            "stop_frame": 112,
+            "segment_name": "0041_The_Sixth_Sense_00.17.57.903-00.17.58.540",
+            "num_frames": 9
+         },{
+            "narration": "someone reaches into the dryer digging for a new tie",
+            "start_frame": 112,
+            "stop_frame": 122,
+            "segment_name": "0041_The_Sixth_Sense_00.17.58.547-00.18.00.739",
+            "num_frames": 10
+         },{
+            "narration": "she finds one then turns and steps back into the kitchen and screams at the top of her lungs",
+            "start_frame": 122,
+            "stop_frame": 154,
+            "segment_name": "0041_The_Sixth_Sense_00.18.00.739-00.18.06.553",
+            "num_frames": 32
+         }]
+   },
+   "10801": {
+      "num_frames": 51,
+      "data_id": "10801",
+      "split": "train",
+      "segments": [{
+            "narration": "in the light from the main house someone sees the light switch",
+            "start_frame": 0,
+            "stop_frame": 9,
+            "segment_name": "0013_Halloween_00.46.11.498-00.46.12.253",
+            "num_frames": 9
+         },{
+            "narration": "almost immediately the wind blows the door shut someone stands motionless for a moment then begins looking for the light switch",
+            "start_frame": 9,
+            "stop_frame": 21,
+            "segment_name": "0013_Halloween_00.46.21.552-00.46.24.105",
+            "num_frames": 12
+         },{
+            "narration": "someone turns toward the slightly open door",
+            "start_frame": 21,
+            "stop_frame": 33,
+            "segment_name": "0013_Halloween_00.46.24.105-00.46.26.531",
+            "num_frames": 12
+         },{
+            "narration": "behind the door we see the outline of the shape standing there",
+            "start_frame": 33,
+            "stop_frame": 42,
+            "segment_name": "0013_Halloween_00.46.28.635-00.46.30.640",
+            "num_frames": 9
+         },{
+            "narration": "the wind blows the door open a little wider",
+            "start_frame": 42,
+            "stop_frame": 51,
+            "segment_name": "0013_Halloween_00.46.30.640-00.46.32.544",
+            "num_frames": 9
+         }]
+   },
+   "4594": {
+      "num_frames": 106,
+      "data_id": "4594",
+      "split": "train",
+      "segments": [{
+            "narration": "now at the hospital",
+            "start_frame": 0,
+            "stop_frame": 9,
+            "segment_name": "3047_LIFE_OF_PI_01.48.32.921-01.48.33.854",
+            "num_frames": 9
+         },{
+            "narration": "they stare at someone",
+            "start_frame": 9,
+            "stop_frame": 37,
+            "segment_name": "3047_LIFE_OF_PI_01.48.52.473-01.48.57.581",
+            "num_frames": 28
+         },{
+            "narration": "the younger japanese man stares at someone as the older one turns to him",
+            "start_frame": 37,
+            "stop_frame": 69,
+            "segment_name": "3047_LIFE_OF_PI_01.49.12.983-01.49.18.858",
+            "num_frames": 32
+         },{
+            "narration": "the older man flips the tape in his recorder",
+            "start_frame": 69,
+            "stop_frame": 85,
+            "segment_name": "3047_LIFE_OF_PI_01.49.18.939-01.49.22.044",
+            "num_frames": 16
+         },{
+            "narration": "they sit at the foot of someone 's hospital bed",
+            "start_frame": 85,
+            "stop_frame": 106,
+            "segment_name": "3047_LIFE_OF_PI_01.49.43.877-01.49.47.769",
+            "num_frames": 21
+         }]
+   },
+   "17875": {
+      "num_frames": 161,
+      "data_id": "17875",
+      "split": "train",
+      "segments": [{
+            "narration": "someone holsters the agent 's gun",
+            "start_frame": 0,
+            "stop_frame": 20,
+            "segment_name": "1043_Vantage_Point_00.27.59.885-00.28.03.754",
+            "num_frames": 20
+         },{
+            "narration": "someone gives chase",
+            "start_frame": 20,
+            "stop_frame": 79,
+            "segment_name": "1043_Vantage_Point_00.28.03.754-00.28.14.135",
+            "num_frames": 59
+         },{
+            "narration": "someone rounds a corner someone and another agent in pursuit",
+            "start_frame": 79,
+            "stop_frame": 116,
+            "segment_name": "1043_Vantage_Point_00.28.14.135-00.28.20.852",
+            "num_frames": 37
+         },{
+            "narration": "someone shoots in the air",
+            "start_frame": 116,
+            "stop_frame": 135,
+            "segment_name": "1043_Vantage_Point_00.28.20.852-00.28.24.479",
+            "num_frames": 19
+         },{
+            "narration": "someone rushes out into the street",
+            "start_frame": 135,
+            "stop_frame": 161,
+            "segment_name": "1043_Vantage_Point_00.28.26.667-00.28.31.510",
+            "num_frames": 26
+         }]
+   },
+   "7845": {
+      "num_frames": 105,
+      "data_id": "7845",
+      "split": "train",
+      "segments": [{
+            "narration": "someone glances at wide-eyed someone",
+            "start_frame": 0,
+            "stop_frame": 10,
+            "segment_name": "3083_TITANIC2_00.43.50.085-00.43.52.275",
+            "num_frames": 10
+         },{
+            "narration": "someone rubs someone 's arms",
+            "start_frame": 10,
+            "stop_frame": 32,
+            "segment_name": "3083_TITANIC2_00.44.02.158-00.44.06.321",
+            "num_frames": 22
+         },{
+            "narration": "someone strides back to someone",
+            "start_frame": 32,
+            "stop_frame": 67,
+            "segment_name": "3083_TITANIC2_00.44.27.764-00.44.34.002",
+            "num_frames": 35
+         },{
+            "narration": "someone glances at someone before leaving with someone",
+            "start_frame": 67,
+            "stop_frame": 83,
+            "segment_name": "3083_TITANIC2_00.44.47.624-00.44.50.827",
+            "num_frames": 16
+         },{
+            "narration": "someone motions over someone 's brown-haired manservant",
+            "start_frame": 83,
+            "stop_frame": 105,
+            "segment_name": "3083_TITANIC2_00.44.52.692-00.44.56.891",
+            "num_frames": 22
+         }]
+   },
+   "13331": {
+      "num_frames": 57,
+      "data_id": "13331",
+      "split": "train",
+      "segments": [{
+            "narration": "he is watching his fingers one of which twitches now",
+            "start_frame": 0,
+            "stop_frame": 11,
+            "segment_name": "0032_The_Princess_Bride_01.15.49.439-01.15.51.748",
+            "num_frames": 11
+         },{
+            "narration": "someone helps someone raise someone just high enough so he can see for himself",
+            "start_frame": 11,
+            "stop_frame": 30,
+            "segment_name": "0032_The_Princess_Bride_01.15.59.272-01.16.02.982",
+            "num_frames": 19
+         },{
+            "narration": "someone absolutely stunned",
+            "start_frame": 30,
+            "stop_frame": 39,
+            "segment_name": "0032_The_Princess_Bride_01.16.09.214-01.16.10.658",
+            "num_frames": 9
+         },{
+            "narration": "he shakes his head from side to side",
+            "start_frame": 39,
+            "stop_frame": 48,
+            "segment_name": "0032_The_Princess_Bride_01.16.15.235-01.16.17.118",
+            "num_frames": 9
+         },{
+            "narration": "people do",
+            "start_frame": 48,
+            "stop_frame": 57,
+            "segment_name": "0032_The_Princess_Bride_01.16.58.848-01.17.00.370",
+            "num_frames": 9
+         }]
+   },
+   "22745": {
+      "num_frames": 97,
+      "data_id": "22745",
+      "split": "test",
+      "segments": [{
+            "narration": "the bounty hunter purses his lips",
+            "start_frame": 0,
+            "stop_frame": 12,
+            "segment_name": "3069_THE_BOUNTY_HUNTER_00.54.29.602-00.54.32.035",
+            "num_frames": 12
+         },{
+            "narration": "he shuffles back alongside the car",
+            "start_frame": 12,
+            "stop_frame": 32,
+            "segment_name": "3069_THE_BOUNTY_HUNTER_00.54.35.000-00.54.38.847",
+            "num_frames": 20
+         },{
+            "narration": "in the passenger seat someone wipes her eyes then rests her forehead on the back of her hand hiding her face",
+            "start_frame": 32,
+            "stop_frame": 51,
+            "segment_name": "3069_THE_BOUNTY_HUNTER_00.54.39.167-00.54.42.912",
+            "num_frames": 19
+         },{
+            "narration": "someone sheepishly opens his door and takes his seat at the wheel",
+            "start_frame": 51,
+            "stop_frame": 88,
+            "segment_name": "3069_THE_BOUNTY_HUNTER_00.54.43.213-00.54.49.823",
+            "num_frames": 37
+         },{
+            "narration": "he glances at someone",
+            "start_frame": 88,
+            "stop_frame": 97,
+            "segment_name": "3069_THE_BOUNTY_HUNTER_00.54.50.587-00.54.51.942",
+            "num_frames": 9
+         }]
+   },
+   "14936": {
+      "num_frames": 81,
+      "data_id": "14936",
+      "split": "train",
+      "segments": [{
+            "narration": "someone then spots an advert",
+            "start_frame": 0,
+            "stop_frame": 9,
+            "segment_name": "1007_Spider-Man1_00.32.17.013-00.32.18.541",
+            "num_frames": 9
+         },{
+            "narration": "need cash",
+            "start_frame": 9,
+            "stop_frame": 18,
+            "segment_name": "1007_Spider-Man1_00.32.17.567-00.32.18.503",
+            "num_frames": 9
+         },{
+            "narration": "amateur wrestlers $3 000 for 3 minutes on the ring colorful characters a must and a phone number",
+            "start_frame": 18,
+            "stop_frame": 49,
+            "segment_name": "1007_Spider-Man1_00.32.17.703-00.32.23.399",
+            "num_frames": 31
+         },{
+            "narration": "he dreams of someone and the sports car",
+            "start_frame": 49,
+            "stop_frame": 63,
+            "segment_name": "1007_Spider-Man1_00.32.25.464-00.32.28.351",
+            "num_frames": 14
+         },{
+            "narration": "someone writes costume possibilities and sketches a cape for go",
+            "start_frame": 63,
+            "stop_frame": 81,
+            "segment_name": "1007_Spider-Man1_00.32.29.203-00.32.32.738",
+            "num_frames": 18
+         }]
+   },
+   "17965": {
+      "num_frames": 140,
+      "data_id": "17965",
+      "split": "train",
+      "segments": [{
+            "narration": "he dashes over to a bureau and pulls out a sheet of paper",
+            "start_frame": 0,
+            "stop_frame": 41,
+            "segment_name": "1044_Pride_And_Prejudice_Disk_Two_00.02.35.596-00.02.42.919",
+            "num_frames": 41
+         },{
+            "narration": "picking up a pen he dips it into an ink pot then sets about writing a letter",
+            "start_frame": 41,
+            "stop_frame": 81,
+            "segment_name": "1044_Pride_And_Prejudice_Disk_Two_00.02.43.306-00.02.50.493",
+            "num_frames": 40
+         },{
+            "narration": "he replenishes the nib with ink",
+            "start_frame": 81,
+            "stop_frame": 90,
+            "segment_name": "1044_Pride_And_Prejudice_Disk_Two_00.02.51.921-00.02.52.742",
+            "num_frames": 9
+         },{
+            "narration": "he puts down the pen and leans back in his chair with a defeated air",
+            "start_frame": 90,
+            "stop_frame": 120,
+            "segment_name": "1044_Pride_And_Prejudice_Disk_Two_00.03.11.162-00.03.16.684",
+            "num_frames": 30
+         },{
+            "narration": "he goes over to the paned window",
+            "start_frame": 120,
+            "stop_frame": 140,
+            "segment_name": "1044_Pride_And_Prejudice_Disk_Two_00.03.32.684-00.03.36.479",
+            "num_frames": 20
+         }]
+   },
+   "11940": {
+      "num_frames": 96,
+      "data_id": "11940",
+      "split": "train",
+      "segments": [{
+            "narration": "she reaches into her pocket pulls out a pack of smokes",
+            "start_frame": 0,
+            "stop_frame": 42,
+            "segment_name": "0023_THE_BUTTERFLY_EFFECT_00.45.33.048-00.45.40.513",
+            "num_frames": 42
+         },{
+            "narration": "someone nods and scrutinizes her face with his next question",
+            "start_frame": 42,
+            "stop_frame": 55,
+            "segment_name": "0023_THE_BUTTERFLY_EFFECT_00.45.45.401-00.45.48.050",
+            "num_frames": 13
+         },{
+            "narration": "someone stops walking and crushes her cigarette",
+            "start_frame": 55,
+            "stop_frame": 71,
+            "segment_name": "0023_THE_BUTTERFLY_EFFECT_00.47.35.453-00.47.38.673",
+            "num_frames": 16
+         },{
+            "narration": "someone begins to tremble",
+            "start_frame": 71,
+            "stop_frame": 87,
+            "segment_name": "0023_THE_BUTTERFLY_EFFECT_00.48.27.313-00.48.30.464",
+            "num_frames": 16
+         },{
+            "narration": "tears flow",
+            "start_frame": 87,
+            "stop_frame": 96,
+            "segment_name": "0023_THE_BUTTERFLY_EFFECT_00.48.29.264-00.48.31.327",
+            "num_frames": 9
+         }]
+   },
+   "9215": {
+      "num_frames": 133,
+      "data_id": "9215",
+      "split": "train",
+      "segments": [{
+            "narration": "he looks at his reflection in the mirror calmly takes a cloth and starts to wipe the blood from his face",
+            "start_frame": 0,
+            "stop_frame": 57,
+            "segment_name": "0001_American_Beauty_01.13.15.022-01.13.25.107",
+            "num_frames": 57
+         },{
+            "narration": "someone wearing protective headgear is holding a glock 19 automatic revolver with both hands firing it directly at us",
+            "start_frame": 57,
+            "stop_frame": 87,
+            "segment_name": "0001_American_Beauty_01.13.29.905-01.13.35.396",
+            "num_frames": 30
+         },{
+            "narration": "she empties a round and stands there exhilarated",
+            "start_frame": 87,
+            "stop_frame": 96,
+            "segment_name": "0001_American_Beauty_01.13.36.210-01.13.37.211",
+            "num_frames": 9
+         },{
+            "narration": "an attendant approaches with a new round of ammunition",
+            "start_frame": 96,
+            "stop_frame": 118,
+            "segment_name": "0001_American_Beauty_01.13.37.211-01.13.41.421",
+            "num_frames": 22
+         },{
+            "narration": "and she starts firing again",
+            "start_frame": 118,
+            "stop_frame": 133,
+            "segment_name": "0001_American_Beauty_01.13.45.669-01.13.48.612",
+            "num_frames": 15
+         }]
+   },
+   "1334": {
+      "num_frames": 112,
+      "data_id": "1334",
+      "split": "train",
+      "segments": [{
+            "narration": "keeping his gaze fixed ahead someone works his mouth",
+            "start_frame": 0,
+            "stop_frame": 14,
+            "segment_name": "3016_CHASING_MAVERICKS_01.17.07.341-01.17.10.172",
+            "num_frames": 14
+         },{
+            "narration": "his jaw clenches",
+            "start_frame": 14,
+            "stop_frame": 23,
+            "segment_name": "3016_CHASING_MAVERICKS_01.17.13.226-01.17.15.003",
+            "num_frames": 9
+         },{
+            "narration": "the teen turns and takes a few steps back but lingers nearby",
+            "start_frame": 23,
+            "stop_frame": 56,
+            "segment_name": "3016_CHASING_MAVERICKS_01.17.15.355-01.17.21.362",
+            "num_frames": 33
+         },{
+            "narration": "a tall bald man with a white mustache comes over",
+            "start_frame": 56,
+            "stop_frame": 65,
+            "segment_name": "3016_CHASING_MAVERICKS_01.17.21.659-01.17.22.698",
+            "num_frames": 9
+         },{
+            "narration": "he steps up beside someone and faces him expectantly",
+            "start_frame": 65,
+            "stop_frame": 112,
+            "segment_name": "3016_CHASING_MAVERICKS_01.17.23.620-01.17.31.870",
+            "num_frames": 47
+         }]
+   },
+   "5755": {
+      "num_frames": 148,
+      "data_id": "5755",
+      "split": "train",
+      "segments": [{
+            "narration": "now in a hallway all three approach two other men",
+            "start_frame": 0,
+            "stop_frame": 44,
+            "segment_name": "3059_SALT_00.07.12.145-00.07.19.932",
+            "num_frames": 44
+         },{
+            "narration": "drop their cellphones in a metal box and enter an observation area overlooking an interrogation room",
+            "start_frame": 44,
+            "stop_frame": 95,
+            "segment_name": "3059_SALT_00.07.19.932-00.07.28.961",
+            "num_frames": 51
+         },{
+            "narration": "someone watches him closely",
+            "start_frame": 95,
+            "stop_frame": 106,
+            "segment_name": "3059_SALT_00.07.35.033-00.07.37.391",
+            "num_frames": 11
+         },{
+            "narration": "a monitor shows his brain activity",
+            "start_frame": 106,
+            "stop_frame": 124,
+            "segment_name": "3059_SALT_00.07.41.180-00.07.44.654",
+            "num_frames": 18
+         },{
+            "narration": "someone picks up a pack of cigarettes and an ashtray then inserts a small radio receiver into her ear",
+            "start_frame": 124,
+            "stop_frame": 148,
+            "segment_name": "3059_SALT_00.07.52.399-00.07.56.937",
+            "num_frames": 24
+         }]
+   },
+   "6303": {
+      "num_frames": 152,
+      "data_id": "6303",
+      "split": "train",
+      "segments": [{
+            "narration": "a bearded man with glasses steps up",
+            "start_frame": 0,
+            "stop_frame": 16,
+            "segment_name": "3066_THE_ADVENTURES_OF_TINTIN_00.07.15.461-00.07.18.668",
+            "num_frames": 16
+         },{
+            "narration": "clutching the model ship to his chest the young man strides off",
+            "start_frame": 16,
+            "stop_frame": 57,
+            "segment_name": "3066_THE_ADVENTURES_OF_TINTIN_00.08.15.500-00.08.22.879",
+            "num_frames": 41
+         },{
+            "narration": "the bearded man narrows his eyes as he stares after someone",
+            "start_frame": 57,
+            "stop_frame": 79,
+            "segment_name": "3066_THE_ADVENTURES_OF_TINTIN_00.08.30.440-00.08.34.643",
+            "num_frames": 22
+         },{
+            "narration": "later someone walks into an apartment",
+            "start_frame": 79,
+            "stop_frame": 111,
+            "segment_name": "3066_THE_ADVENTURES_OF_TINTIN_00.08.34.643-00.08.40.448",
+            "num_frames": 32
+         },{
+            "narration": "he places the ship onto a counter",
+            "start_frame": 111,
+            "stop_frame": 152,
+            "segment_name": "3066_THE_ADVENTURES_OF_TINTIN_00.08.40.448-00.08.47.740",
+            "num_frames": 41
+         }]
+   },
+   "16520": {
+      "num_frames": 77,
+      "data_id": "16520",
+      "split": "train",
+      "segments": [{
+            "narration": "now in a motel they approach the front desk",
+            "start_frame": 0,
+            "stop_frame": 25,
+            "segment_name": "1024_Identity_Thief_00.42.55.779-00.43.00.503",
+            "num_frames": 25
+         },{
+            "narration": "she leaves",
+            "start_frame": 25,
+            "stop_frame": 34,
+            "segment_name": "1024_Identity_Thief_00.43.55.469-00.43.57.155",
+            "num_frames": 9
+         },{
+            "narration": "someone enters the foxhole",
+            "start_frame": 34,
+            "stop_frame": 51,
+            "segment_name": "1024_Identity_Thief_00.44.22.739-00.44.26.099",
+            "num_frames": 17
+         },{
+            "narration": "a husky bearded man in a cowboy hat notices her",
+            "start_frame": 51,
+            "stop_frame": 64,
+            "segment_name": "1024_Identity_Thief_00.44.26.770-00.44.29.385",
+            "num_frames": 13
+         },{
+            "narration": "he nods to himself as someone sips her green beverage",
+            "start_frame": 64,
+            "stop_frame": 77,
+            "segment_name": "1024_Identity_Thief_00.44.36.072-00.44.38.745",
+            "num_frames": 13
+         }]
+   },
+   "1898": {
+      "num_frames": 208,
+      "data_id": "1898",
+      "split": "train",
+      "segments": [{
+            "narration": "later still he paddles out past a stone jetty",
+            "start_frame": 0,
+            "stop_frame": 24,
+            "segment_name": "3020_DEAR_JOHN_00.18.18.209-00.18.22.594",
+            "num_frames": 24
+         },{
+            "narration": "at her house someone steps out on her screened-in porch and gazes toward the beach",
+            "start_frame": 24,
+            "stop_frame": 65,
+            "segment_name": "3020_DEAR_JOHN_00.18.22.694-00.18.30.005",
+            "num_frames": 41
+         },{
+            "narration": "now she walks with someone as he carries his board from the water",
+            "start_frame": 65,
+            "stop_frame": 87,
+            "segment_name": "3020_DEAR_JOHN_00.18.30.105-00.18.34.218",
+            "num_frames": 22
+         },{
+            "narration": "they stroll toward her home",
+            "start_frame": 87,
+            "stop_frame": 149,
+            "segment_name": "3020_DEAR_JOHN_00.18.34.318-00.18.45.190",
+            "num_frames": 62
+         },{
+            "narration": "now they approach a partially constructed house",
+            "start_frame": 149,
+            "stop_frame": 208,
+            "segment_name": "3020_DEAR_JOHN_00.18.45.290-00.18.55.515",
+            "num_frames": 59
+         }]
+   },
+   "7196": {
+      "num_frames": 131,
+      "data_id": "7196",
+      "split": "train",
+      "segments": [{
+            "narration": "someone brings someone a folder",
+            "start_frame": 0,
+            "stop_frame": 21,
+            "segment_name": "3077_THE_VOW_01.12.48.000-01.12.51.889",
+            "num_frames": 21
+         },{
+            "narration": "someone 's mother joins them",
+            "start_frame": 21,
+            "stop_frame": 45,
+            "segment_name": "3077_THE_VOW_01.13.11.000-01.13.15.396",
+            "num_frames": 24
+         },{
+            "narration": "someone hands the file to his daughter",
+            "start_frame": 45,
+            "stop_frame": 65,
+            "segment_name": "3077_THE_VOW_01.13.15.653-01.13.19.406",
+            "num_frames": 20
+         },{
+            "narration": "at dusk in the city two elevated trains pass one another under the chicago skyline",
+            "start_frame": 65,
+            "stop_frame": 82,
+            "segment_name": "3077_THE_VOW_01.13.29.000-01.13.32.346",
+            "num_frames": 17
+         },{
+            "narration": "in the apartment someone drops a jacket on a chair and carries a stack of mail to a coffee table",
+            "start_frame": 82,
+            "stop_frame": 131,
+            "segment_name": "3077_THE_VOW_01.13.32.346-01.13.41.020",
+            "num_frames": 49
+         }]
+   },
+   "9695": {
+      "num_frames": 85,
+      "data_id": "9695",
+      "split": "train",
+      "segments": [{
+            "narration": "as he tears he either sniffles or coughs to cover the sound of the paper being ripped",
+            "start_frame": 0,
+            "stop_frame": 9,
+            "segment_name": "0005_Chinatown_01.08.50.590-01.08.52.479",
+            "num_frames": 9
+         },{
+            "narration": "amidst a hall of shimmering dust and heat parched and drying groves narrower roads",
+            "start_frame": 9,
+            "stop_frame": 18,
+            "segment_name": "0005_Chinatown_01.09.01.613-01.09.03.667",
+            "num_frames": 9
+         },{
+            "narration": "someone parks at the edge of the field",
+            "start_frame": 18,
+            "stop_frame": 53,
+            "segment_name": "0005_Chinatown_01.09.34.515-01.09.40.936",
+            "num_frames": 35
+         },{
+            "narration": "someone is hefted half off the ground and the two younger farmers spin him around going through his clothes",
+            "start_frame": 53,
+            "stop_frame": 73,
+            "segment_name": "0005_Chinatown_01.11.02.030-01.11.05.841",
+            "num_frames": 20
+         },{
+            "narration": "they toss his wallet his silver cigarette case etc",
+            "start_frame": 73,
+            "stop_frame": 85,
+            "segment_name": "0005_Chinatown_01.11.05.841-01.11.08.368",
+            "num_frames": 12
+         }]
+   },
+   "8382": {
+      "num_frames": 175,
+      "data_id": "8382",
+      "split": "train",
+      "segments": [{
+            "narration": "seated at the coffee table someone colors",
+            "start_frame": 0,
+            "stop_frame": 33,
+            "segment_name": "3087_WE_BOUGHT_A_ZOO_01.47.20.463-01.47.26.482",
+            "num_frames": 33
+         },{
+            "narration": "a glass of milk stands within her reach",
+            "start_frame": 33,
+            "stop_frame": 72,
+            "segment_name": "3087_WE_BOUGHT_A_ZOO_01.47.19.733-01.47.26.733",
+            "num_frames": 39
+         },{
+            "narration": "someone eyes the unrelenting rainfall outside",
+            "start_frame": 72,
+            "stop_frame": 98,
+            "segment_name": "3087_WE_BOUGHT_A_ZOO_01.47.23.233-01.47.27.962",
+            "num_frames": 26
+         },{
+            "narration": "elsewhere someone opens a flask in his living quarters and finds the vessel empty",
+            "start_frame": 98,
+            "stop_frame": 139,
+            "segment_name": "3087_WE_BOUGHT_A_ZOO_01.47.28.543-01.47.35.798",
+            "num_frames": 41
+         },{
+            "narration": "someone leaves a building and uses her walkie-talkie",
+            "start_frame": 139,
+            "stop_frame": 175,
+            "segment_name": "3087_WE_BOUGHT_A_ZOO_01.47.35.798-01.47.42.190",
+            "num_frames": 36
+         }]
+   },
+   "18905": {
+      "num_frames": 169,
+      "data_id": "18905",
+      "split": "train",
+      "segments": [{
+            "narration": "she frowns at the drawing",
+            "start_frame": 0,
+            "stop_frame": 36,
+            "segment_name": "1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.23.45.643-01.23.52.067",
+            "num_frames": 36
+         },{
+            "narration": "she ruffles his hair and smiles at him",
+            "start_frame": 36,
+            "stop_frame": 72,
+            "segment_name": "1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.24.37.542-01.24.44.048",
+            "num_frames": 36
+         },{
+            "narration": "someone nods and grins after her as she walks away",
+            "start_frame": 72,
+            "stop_frame": 102,
+            "segment_name": "1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.24.47.000-01.24.52.572",
+            "num_frames": 30
+         },{
+            "narration": "a few snowflakes drift past",
+            "start_frame": 102,
+            "stop_frame": 119,
+            "segment_name": "1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.24.52.572-01.24.55.832",
+            "num_frames": 17
+         },{
+            "narration": "they apparate in a quaint snow covered village",
+            "start_frame": 119,
+            "stop_frame": 169,
+            "segment_name": "1050_Harry_Potter_and_the_deathly_hallows_Disk_One_01.24.55.832-01.25.04.627",
+            "num_frames": 50
+         }]
+   },
+   "6073": {
+      "num_frames": 112,
+      "data_id": "6073",
+      "split": "train",
+      "segments": [{
+            "narration": "now in business attire someone works at a desktop computer",
+            "start_frame": 0,
+            "stop_frame": 18,
+            "segment_name": "3061_SNOW_FLOWER_01.07.41.741-01.07.45.182",
+            "num_frames": 18
+         },{
+            "narration": "sebastian strolls in with a smile",
+            "start_frame": 18,
+            "stop_frame": 27,
+            "segment_name": "3061_SNOW_FLOWER_01.07.45.559-01.07.47.308",
+            "num_frames": 9
+         },{
+            "narration": "someone lowers an amazed grin",
+            "start_frame": 27,
+            "stop_frame": 41,
+            "segment_name": "3061_SNOW_FLOWER_01.08.02.496-01.08.05.243",
+            "num_frames": 14
+         },{
+            "narration": "now at a bar lit dramatically by lemony yellow light bulbs someone takes two shots onto the near empty dance floor and hands one to someone",
+            "start_frame": 41,
+            "stop_frame": 80,
+            "segment_name": "3061_SNOW_FLOWER_01.08.06.953-01.08.13.963",
+            "num_frames": 39
+         },{
+            "narration": "in slinky party dresses they someone to the music and swivel their hips as they drink",
+            "start_frame": 80,
+            "stop_frame": 112,
+            "segment_name": "3061_SNOW_FLOWER_01.08.14.199-01.08.20.055",
+            "num_frames": 32
+         }]
+   },
+   "4825": {
+      "num_frames": 70,
+      "data_id": "4825",
+      "split": "train",
+      "segments": [{
+            "narration": "while someone sits with someone on a bench",
+            "start_frame": 0,
+            "stop_frame": 10,
+            "segment_name": "3050_MR_POPPERS_PENGUINS_00.34.36.315-00.34.38.405",
+            "num_frames": 10
+         },{
+            "narration": "the penguins crowd him",
+            "start_frame": 10,
+            "stop_frame": 31,
+            "segment_name": "3050_MR_POPPERS_PENGUINS_00.34.38.505-00.34.42.441",
+            "num_frames": 21
+         },{
+            "narration": "as he waves the penguins take a step back",
+            "start_frame": 31,
+            "stop_frame": 51,
+            "segment_name": "3050_MR_POPPERS_PENGUINS_00.34.42.541-00.34.46.398",
+            "num_frames": 20
+         },{
+            "narration": "beside him someone texts on her cell",
+            "start_frame": 51,
+            "stop_frame": 60,
+            "segment_name": "3050_MR_POPPERS_PENGUINS_00.34.47.783-00.34.49.442",
+            "num_frames": 9
+         },{
+            "narration": "and someone gives a disappointed look",
+            "start_frame": 60,
+            "stop_frame": 70,
+            "segment_name": "3050_MR_POPPERS_PENGUINS_00.34.49.542-00.34.51.710",
+            "num_frames": 10
+         }]
+   },
+   "23078": {
+      "num_frames": 169,
+      "data_id": "23078",
+      "split": "test",
+      "segments": [{
+            "narration": "she rolls her eyes at the counter clerk and leaves the store stick in one hand",
+            "start_frame": 0,
+            "stop_frame": 48,
+            "segment_name": "1004_Juno_00.05.41.624-00.05.50.070",
+            "num_frames": 48
+         },{
+            "narration": "her expression is suddenly forlorn",
+            "start_frame": 48,
+            "stop_frame": 57,
+            "segment_name": "1004_Juno_00.05.51.140-00.05.52.807",
+            "num_frames": 9
+         },{
+            "narration": "someone slings the rope candy onto the branch of a tree and makes a noose",
+            "start_frame": 57,
+            "stop_frame": 126,
+            "segment_name": "1004_Juno_00.06.18.991-00.06.30.927",
+            "num_frames": 69
+         },{
+            "narration": "she bites in to the liquorish rope and wanders off home",
+            "start_frame": 126,
+            "stop_frame": 150,
+            "segment_name": "1004_Juno_00.06.34.339-00.06.38.785",
+            "num_frames": 24
+         },{
+            "narration": "bedrooms the light switch doubles as a doll 's penis",
+            "start_frame": 150,
+            "stop_frame": 169,
+            "segment_name": "1004_Juno_00.06.39.278-00.06.42.895",
+            "num_frames": 19
+         }]
+   },
+   "11106": {
+      "num_frames": 107,
+      "data_id": "11106",
+      "split": "train",
+      "segments": [{
+            "narration": "someone strides up to a portly middle-aged man who wears dark glasses and holds a white cane",
+            "start_frame": 0,
+            "stop_frame": 36,
+            "segment_name": "0016_O_Brother_Where_Art_Thou_00.23.34.996-00.23.41.498",
+            "num_frames": 36
+         },{
+            "narration": "someone grimaces thinking",
+            "start_frame": 36,
+            "stop_frame": 45,
+            "segment_name": "0016_O_Brother_Where_Art_Thou_00.24.01.540-00.24.03.274",
+            "num_frames": 9
+         },{
+            "narration": "the three singing convicts form a semi-circle behind someone who plays his guitar into a can microphone",
+            "start_frame": 45,
+            "stop_frame": 65,
+            "segment_name": "0016_O_Brother_Where_Art_Thou_00.25.23.433-00.25.27.192",
+            "num_frames": 20
+         },{
+            "narration": "they are performing a hot and harmonized version of 'man of constant sorrow'",
+            "start_frame": 65,
+            "stop_frame": 78,
+            "segment_name": "0016_O_Brother_Where_Art_Thou_00.25.11.351-00.25.14.038",
+            "num_frames": 13
+         },{
+            "narration": "when they finish someone whoops and slaps someone on the back",
+            "start_frame": 78,
+            "stop_frame": 107,
+            "segment_name": "0016_O_Brother_Where_Art_Thou_00.26.18.845-00.26.24.165",
+            "num_frames": 29
+         }]
+   }
+}
