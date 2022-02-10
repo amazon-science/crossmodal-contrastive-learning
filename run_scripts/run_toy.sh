@@ -1,0 +1,2 @@
+#python3 train.py config/yc2_100m_coot.yaml --cuda --log_dir runs/lsmdc_toy --dataroot /mnt/efs/fs1/workspace/experiments/h100m_lsmdc/data/howto100m_lsmdc/ --preload_vid
+python3 train.py --config_file config/lsmdc_100m_base.yaml --cuda --dataroot data/lsmdc/toy/ --group_k 5 --exp_group patching --exp_name debug6 --num_runs 2

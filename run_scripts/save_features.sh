@@ -1,0 +1,1 @@
+python3 -m extract_modalities.save_features_data --data_save /mnt/efs/fs1/workspace/xray_transformer_v1/src/lablet_multimodal_transformer_xray/visualize/ --group_k 1 --modality_list action appearance object scene --data_video /mnt/efs/fs1/workspace/datasets/lsmdc16_mp4 --num_cuda 1 --cuda
